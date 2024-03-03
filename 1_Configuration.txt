@@ -1,0 +1,7 @@
+
+no1: git config --global user.name "nickname"
+no2: git config --global user.email "email adress"
+
+Step1: Open gitBash app.
+Step2: Then no1 and no2 write on the app.
+Step3: Thus, you have defined yourself to the application.

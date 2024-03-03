@@ -1,0 +1,15 @@
+Open GitBash terminal.
+
+pwd command = current directory
+ls command = lists the files in the current directory
+ls -a command = Shown in hidden files
+cd command = Change directory
+	example = cd Desktop/Python_Project
+cd .. command = we reach the previous directory
+clear command = clears the terminal (ctrl + L)
+git init command = After executing the cd command, the directory must be written to become a git project.
+git add . command = adds all files in the directory to staging area
+git commit -m "example" =  adds files to git
+git log command = shows the files we saved
+
+

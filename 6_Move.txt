@@ -1,0 +1,5 @@
+file naming and moving
+
+git mv example1.txt example2.txt command = changing the first filename to the second filename 
+git mv example1.txt folders/ = In this way, we move the example1.txt file to the folders directory.
+

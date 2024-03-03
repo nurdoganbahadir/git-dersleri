@@ -1,0 +1,10 @@
+diff = diffrent
+
+
+git diff command = If changes have been made to the file, it shows the changes
+git diff example.txt = only shows changes inside a file
+git diff --staged command = Shows differences within files in the staging area
+
+
+
+

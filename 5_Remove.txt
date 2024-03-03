@@ -1,0 +1,5 @@
+remove = rm command
+
+git rm = Allows deleting committed files
+git rm example.txt = Deletes the file whose name we wrote
+git rm -r "folder name" = When we want to delete a folder we must run this command

@@ -1,0 +1,8 @@
+Status Command
+
+git status = This command shows any changes
+git add "example" = We can add only that file by typing the name of the file we want to add.
+
+
+
+

@@ -1,0 +1,7 @@
+git checkout -- example command = In this way, it undoes the changes in the file
+git checkout -- example = If we deleted the example file and want to restore it, we can bring it back this way.
+git reset HEAD example command = Retrieves the file in the stage area
+
+
+
+
