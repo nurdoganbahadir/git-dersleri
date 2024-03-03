@@ -1,0 +1,5 @@
+swap version
+
+git checkout "verison code write" -- . = The version code will be written so that we can return to the version we want.
+
+git checkout "verison code write" -- example1.txt = It returns only the version of the file in the version we want.
